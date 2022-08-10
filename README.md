@@ -51,6 +51,10 @@ public class TuplesExample : MonoBehaviour
 
         Debug.Log($"Tuples Example: rounded float output => {RoundToNearestInteger(4.2f)}");
         Debug.Log($"Tuples Example: rounded float output => {RoundToNearestInteger(6.7f)}");
+
+        Debug.Log("---------------------------------------");
+        Debug.Log(RoundToNearestInteger(9.1f).roundedValue);
+        Debug.Log(RoundToNearestInteger(9.1f).realValue);
         #endregion
     }
 
