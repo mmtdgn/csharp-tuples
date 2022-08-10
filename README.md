@@ -58,4 +58,4 @@ public class TuplesExample : MonoBehaviour
 ```
 <summary><b>Screenshot</b></summary>
   
-<img src="/.github/Screenshots/Screenshot_1.png">
+<img src="/screenshots/Screenshot_1.png">
