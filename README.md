@@ -56,6 +56,6 @@ public class TuplesExample : MonoBehaviour
 
 }
 ```
-<summary><b>Screenshot</b></summary>
+<summary><b>Output</b></summary>
   
 <img src="/screenshots/Screenshot_1.png">
